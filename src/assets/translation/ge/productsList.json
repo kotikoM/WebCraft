@@ -1,0 +1,18 @@
+{
+  "catalog": "კატალოგი",
+  "filters": "ფილტრები",
+  "category": "კატეგორია",
+  "price": "ფასი",
+  "Website Packages": "საიტების პაკეტები",
+  "E-commerce Solutions": "ელექტრონული კომერციის გადაწყვეტილებები",
+  "Custom Development": "საბაჟო განვითარება",
+  "Digital Marketing": "ციფრული მარკეტინგი",
+  "Maintenance and Support": "მოვლა და მხარდაჭერა",
+  "Additional Features": "დამატებითი ფუნქციები",
+  "search": "ძებნა",
+  "sort-by": "დაალაგე",
+  "name-AZ" : "სახელი ა-ზ",
+  "name-ZA" : "სახელი ზ-ა",
+  "price-ASC" : "ფასი ↑",
+  "price-DESC" : "ფასი ↓"
+}

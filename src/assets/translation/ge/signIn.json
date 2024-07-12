@@ -1,0 +1,16 @@
+{
+    "sign in" : "ავტორიზაცია",
+    "username" : "მომხმარებელი",
+    "password" : "პაროლი",
+    "sign in button" : "შესვლა",
+    "sign in FB" : "Facebook-ით შესვლა",
+    "sign in AP" : "Apple-ით შესვლა",
+    "sign in GO" : "Google-ით შესვლა",
+    "sign up" : "დარეგისტრირდით",
+    "email" : "მელი",
+    "first name": "სახელი",
+    "last name": "გვარი",
+    "sign up button": "რეგისტრაცია",
+    "don't have an account" : "არ გაქვთ ექაუნთი?",
+    "already have an account" : "გაქვთ ექაუნთი?"
+}

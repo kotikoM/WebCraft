@@ -1,0 +1,13 @@
+{
+    "title" : "webcraft",
+    "home" : "home",
+    "products" : "products",
+    "contact-us" : "contact-us",
+    "sign-in" : "Sign In",
+    "footer" :{
+        "follow-us" : "follow us:",
+        "twitter" : "Twitter",
+        "facebook" : "Facebook",
+        "instagram" : "Instagram"
+    }
+}

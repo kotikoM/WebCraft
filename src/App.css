@@ -1,0 +1,94 @@
+.app {
+  min-height: 100vh;
+}
+
+nav h1 {
+  font-family: "incompleeta";
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px 50px 50px 40px;
+}
+
+nav ul {
+  font-family: "incompleeta reveal";
+  list-style: none;
+  display: flex;
+  align-items: center;
+
+  li {
+    margin: 0px 5px;
+  }
+}
+
+nav a {
+  margin: 2px 20px;
+  padding: 0px 2px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: #eeecdf;
+  font-size: 25px;
+  position: relative;
+}
+
+nav a::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #b0ad9e;
+  transition: width 0.5s ease;
+}
+
+nav a:hover::after {
+  width: 100%;
+}
+
+.profile {
+  padding-top: 8px;
+}
+
+.sign-in-link {
+  border: 2px solid #b0ad9e;
+  padding: 3px 10px 10px 10px;
+  margin-left: 50px;
+}
+
+.footer {
+  background-color: #0d0218;
+
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 70px;
+  }
+}
+
+.footer ul li {
+  font-family: "incompleeta reveal";
+  color: #b0ad9e83;
+  padding: 30px 30px;
+  a {
+    color: #b0ad9e83;
+    text-decoration: none;
+  }
+}
+
+.footer ul li:hover {
+  a {
+    color: #b0ad9e;
+  }
+}
+
+.facebook {
+  padding-top: 8px;
+}

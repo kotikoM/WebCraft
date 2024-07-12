@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Incompleeta Reveal';
+    src: url('IncompleetaRegularReveal.eot');
+    src: local('Incompleeta Reveal'), local('IncompleetaRegularReveal'),
+        url('IncompleetaRegularReveal.eot?#iefix') format('embedded-opentype'),
+        url('IncompleetaRegularReveal.woff2') format('woff2'),
+        url('IncompleetaRegularReveal.woff') format('woff'),
+        url('IncompleetaRegularReveal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Incompleeta Light Reveal';
+    src: url('IncompleetaLightReveal.eot');
+    src: local('Incompleeta Light Reveal'), local('IncompleetaLightReveal'),
+        url('IncompleetaLightReveal.eot?#iefix') format('embedded-opentype'),
+        url('IncompleetaLightReveal.woff2') format('woff2'),
+        url('IncompleetaLightReveal.woff') format('woff'),
+        url('IncompleetaLightReveal.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Incompleeta Light';
+    src: url('IncompleetaLight.eot');
+    src: local('Incompleeta Light'), local('IncompleetaLight'),
+        url('IncompleetaLight.eot?#iefix') format('embedded-opentype'),
+        url('IncompleetaLight.woff2') format('woff2'),
+        url('IncompleetaLight.woff') format('woff'),
+        url('IncompleetaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Incompleeta';
+    src: url('IncompleetaRegular.eot');
+    src: local('Incompleeta'), local('IncompleetaRegular'),
+        url('IncompleetaRegular.eot?#iefix') format('embedded-opentype'),
+        url('IncompleetaRegular.woff2') format('woff2'),
+        url('IncompleetaRegular.woff') format('woff'),
+        url('IncompleetaRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,18 @@
+{
+  "catalog": "Catalog",
+  "filters": "Filters",
+  "category": "Category",
+  "price": "Price",
+  "Website Packages": "Website Packages",
+  "E-commerce Solutions": "E-commerce Solutions",
+  "Custom Development": "Custom Development",
+  "Digital Marketing": "Digital Marketing",
+  "Maintenance and Support": "Maintenance and Support",
+  "Additional Features": "Additional Features",
+  "search" : "Search",
+  "sort-by" : "Sort By",
+  "name-AZ" : "name A-Z",
+  "name-ZA" : "name Z-A",
+  "price-ASC" : "price ↓",
+  "price-DESC" : "price ↑"
+}

@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Website Packages",
+      "name": "Basic Website Package",
+      "description": "Single-page responsive website with basic SEO and contact form.",
+      "image": "/products-data/images/Website-Package/1.jpg",
+      "price": 500,
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "category": "Website Packages",
+      "name": "Standard Website Package",
+      "description": "Multi-page responsive website with basic SEO, contact form, and blog setup.",
+      "image": "/products-data/images/Website-Package/2.jpg",
+      "price": 1200,
+      "isAvailable": true
+    },
+    {
+      "id": 3,
+      "category": "Website Packages",
+      "name": "Premium Website Package",
+      "description": "Unlimited pages, advanced SEO, e-commerce functionality, and blog setup.",
+      "image": "/products-data/images/Website-Package/3.jpg",
+      "price": 2500,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "category": "E-commerce Solutions",
+      "name": "Basic E-commerce Package",
+      "description": "Product catalog, shopping cart, payment gateway integration, and basic SEO.",
+      "image": "/products-data/images/E-Commerce-Solutions/1.jpg",
+      "price": 1500,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "category": "E-commerce Solutions",
+      "name": "Advanced E-commerce Package",
+      "description": "Unlimited products, advanced shopping cart, multiple payment gateways, and advanced SEO.",
+      "image": "/products-data/images/E-Commerce-Solutions/2.jpg",
+      "price": 3000,
+      "isAvailable": true
+    },
+    {
+      "id": 6,
+      "category": "Custom Development",
+      "name": "Custom Website Development",
+      "description": "Tailored web design and development with custom features and third-party integrations.",
+      "image": "/products-data/images/Custom-Development/1.jpg",
+      "price": 5000,
+      "isAvailable": false
+    },
+    {
+      "id": 7,
+      "category": "Custom Development",
+      "name": "Web Application Development",
+      "description": "Custom web applications with API integrations and advanced backend/frontend development.",
+      "image": "/products-data/images/Custom-Development/2.jpg",
+      "price": 1500,
+      "isAvailable": true
+    },
+    {
+      "id": 8,
+      "category": "Digital Marketing",
+      "name": "SEO Services",
+      "description": "On-page and off-page SEO, keyword research, and analytics reporting.",
+      "image": "/products-data/images/Digital-Marketing/1.jpg",
+      "price": 800,
+      "isAvailable": true
+    },
+    {
+      "id": 9,
+      "category": "Digital Marketing",
+      "name": "Social Media Management",
+      "description": "Account setup, content creation, engagement strategies, and analytics reporting.",
+      "image": "/products-data/images/Digital-Marketing/2.jpg",
+      "price": 600,
+      "isAvailable": true
+    },
+    {
+      "id": 10,
+      "category": "Digital Marketing",
+      "name": "Content Creation",
+      "description": "Blog writing, copywriting for websites, and graphic design services.",
+      "image": "/products-data/images/Digital-Marketing/3.jpg",
+      "price": 400,
+      "isAvailable": true
+    },
+    {
+      "id": 11,
+      "category": "Maintenance and Support",
+      "name": "Website Maintenance",
+      "description": "Regular updates, security monitoring, backup services, and performance optimization.",
+      "image": "/products-data/images/Maintenance-and-Support/1.jpg",
+      "price": 300,
+      "isAvailable": true
+    },
+    {
+      "id": 12,
+      "category": "Maintenance and Support",
+      "name": "Technical Support",
+      "description": "24/7 technical support, troubleshooting, bug fixing, and hosting support.",
+      "image": "/products-data/images/Maintenance-and-Support/2.jpg",
+      "price": 500,
+      "isAvailable": true
+    },
+    {
+      "id": 13,
+      "category": "Additional Features",
+      "name": "Custom Domain Registration",
+      "description": "Domain name registration and management with SSL certificate setup.",
+      "image": "/products-data/images/Additional-Features/1.jpg",
+      "price": 100,
+      "isAvailable": true
+    },
+    {
+      "id": 14,
+      "category": "Additional Features",
+      "name": "Hosting Services",
+      "description": "Managed hosting, shared hosting, and dedicated server hosting.",
+      "image": "/products-data/images/Additional-Features/2.jpg",
+      "price": 1000,
+      "isAvailable": true
+    },
+    {
+      "id": 15,
+      "category": "Additional Features",
+      "name": "Email Services",
+      "description": "Custom email addresses and email marketing setup.",
+      "image": "/products-data/images/Additional-Features/3.jpg",
+      "price": 200,
+      "isAvailable": true
+    },
+    {
+      "id": 16,
+      "category": "Additional Features",
+      "name": "Analytics and Reporting",
+      "description": "Google Analytics setup and monthly performance reports.",
+      "image": "/products-data/images/Additional-Features/4.jpg",
+      "price": 250,
+      "isAvailable": true
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "საიტების პაკეტები",
+      "name": "საბაზისო ვებსაიტის პაკეტი",
+      "description": "ერთგვერდიანი საპასუხო ვებსაიტი ძირითადი SEO და საკონტაქტო ფორმით.",
+      "image": "/products-data/images/Website-Package/1.jpg",
+      "price": 500,
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "category": "საიტების პაკეტები",
+      "name": "სტანდარტული ვებსაიტის პაკეტი",
+      "description": "მრავალგვერდიანი საპასუხო ვებსაიტი ძირითადი SEO, საკონტაქტო ფორმა და ბლოგის დაყენებით.",
+      "image": "/products-data/images/Website-Package/2.jpg",
+      "price": 1200,
+      "isAvailable": true
+    },
+    {
+      "id": 3,
+      "category": "საიტების პაკეტები",
+      "name": "პრემიუმ ვებსაიტის პაკეტი",
+      "description": "შეუზღუდავი გვერდები, მოწინავე SEO, ელექტრონული კომერციის ფუნქციონირება და ბლოგის დაყენება.",
+      "image": "/products-data/images/Website-Package/3.jpg",
+      "price": 2500,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "category": "ელექტრონული კომერციის გადაწყვეტილებები",
+      "name": "საბაზისო ელექტრონული კომერციის პაკეტი",
+      "description": "პროდუქტის კატალოგი, კალათა, გადახდის კარიბჭის ინტეგრაცია და ძირითადი SEO.",
+      "image": "/products-data/images/E-Commerce-Solutions/1.jpg",
+      "price": 1500,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "category": "ელექტრონული კომერციის გადაწყვეტილებები",
+      "name": "გაფართოებული ელექტრონული კომერციის პაკეტი",
+      "description": "ულიმიტო პროდუქტები, მოწინავე კალათა, გადახდის მრავალი კარიბჭე და გაფართოებული SEO.",
+      "image": "/products-data/images/E-Commerce-Solutions/2.jpg",
+      "price": 3000,
+      "isAvailable": true
+    },
+    {
+      "id": 6,
+      "category": "საბაჟო განვითარება",
+      "name": "საბაჟო ვებსაიტის შექმნა",
+      "description": "მორგებული ვებ დიზაინი და განვითარება მორგებული ფუნქციებით და მესამე მხარის ინტეგრაციით.",
+      "image": "/products-data/images/Custom-Development/1.jpg",
+      "price": 5000,
+      "isAvailable": false
+    },
+    {
+      "id": 7,
+      "category": "საბაჟო განვითარება",
+      "name": "ვებ აპლიკაციის შემუშავება",
+      "description": "მორგებული ვებ აპლიკაციები API ინტეგრაციით და გაფართოებული backend/frontend განვითარება.",
+      "image": "/products-data/images/Custom-Development/2.jpg",
+      "price": 1500,
+      "isAvailable": true
+    },
+    {
+      "id": 8,
+      "category": "ციფრული მარკეტინგი",
+      "name": "SEO Services",
+      "description": "გვერდის და გვერდის გარეთ SEO, საკვანძო სიტყვების კვლევა და ანალიტიკური ანგარიშგება.",
+      "image": "/products-data/images/Digital-Marketing/1.jpg",
+      "price": 800,
+      "isAvailable": true
+    },
+    {
+      "id": 9,
+      "category": "ციფრული მარკეტინგი",
+      "name": "სოციალური მედიის მენეჯმენტი",
+      "description": "ანგარიშის დაყენება, კონტენტის შექმნა, ჩართულობის სტრატეგიები და ანალიტიკური ანგარიშგება.",
+      "image": "/products-data/images/Digital-Marketing/2.jpg",
+      "price": 600,
+      "isAvailable": true
+    },
+    {
+      "id": 10,
+      "category": "ციფრული მარკეტინგი",
+      "name": "შინაარსის შექმნა",
+      "description": "ბლოგის წერა, საავტორო წერა ვებსაიტებისთვის და გრაფიკული დიზაინის სერვისები.",
+      "image": "/products-data/images/Digital-Marketing/3.jpg",
+      "price": 400,
+      "isAvailable": true
+    },
+    {
+      "id": 11,
+      "category": "მოვლა და მხარდაჭერა",
+      "name": "ვებგვერდის მოვლა",
+      "description": "რეგულარული განახლებები, უსაფრთხოების მონიტორინგი, სარეზერვო სერვისები და შესრულების ოპტიმიზაცია.",
+      "image": "/products-data/images/Maintenance-and-Support/1.jpg",
+      "price": 300,
+      "isAvailable": true
+    },
+    {
+      "id": 12,
+      "category": "მოვლა და მხარდაჭერა",
+      "name": "ტექნიკური მხარდაჭერა",
+      "description": "24/7 ტექნიკური მხარდაჭერა, პრობლემების მოგვარება, შეცდომების გამოსწორება და ჰოსტინგის მხარდაჭერა.",
+      "image": "/products-data/images/Maintenance-and-Support/2.jpg",
+      "price": 500,
+      "isAvailable": true
+    },
+    {
+      "id": 13,
+      "category": "დამატებითი ფუნქციები",
+      "name": "მორგებული დომენის რეგისტრაცია",
+      "description": "დომენის რეგისტრაცია და მართვა SSL სერტიფიკატის დაყენებით.",
+      "image": "/products-data/images/Additional-Features/1.jpg",
+      "price": 100,
+      "isAvailable": true
+    },
+    {
+      "id": 14,
+      "category": "დამატებითი ფუნქციები",
+      "name": "ჰოსტინგის სერვისები",
+      "description": "მართული ჰოსტინგი, საერთო ჰოსტინგი და გამოყოფილი სერვერის ჰოსტინგი.",
+      "image": "/products-data/images/Additional-Features/2.jpg",
+      "price": 1000,
+      "isAvailable": true
+    },
+    {
+      "id": 15,
+      "category": "დამატებითი ფუნქციები",
+      "name": "ელ.ფოსტის სერვისები",
+      "description": "მორგებული ელფოსტის მისამართები და ელექტრონული ფოსტის მარკეტინგის დაყენება.",
+      "image": "/products-data/images/Additional-Features/3.jpg",
+      "price": 200,
+      "isAvailable": true
+    },
+    {
+      "id": 16,
+      "category": "დამატებითი ფუნქციები",
+      "name": "ანალიტიკა და რეპორტინგი",
+      "description": "Google Analytics დაყენება და ყოველთვიური შესრულების ანგარიშები.",
+      "image": "/products-data/images/Additional-Features/4.jpg",
+      "price": 250,
+      "isAvailable": true
+    }
+  ]
+}
