@@ -10,7 +10,6 @@ import LanguageSwitcher from "./components/languageSwitcher";
 import "./App.css";
 import { useTranslation } from "react-i18next";
 import { IoPersonCircleOutline } from "react-icons/io5";
-import { FaFacebook } from "react-icons/fa";
 
 function App() {
   const [t, i18n] = useTranslation("global");
