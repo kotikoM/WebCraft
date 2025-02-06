@@ -62,15 +62,6 @@ function App() {
                   </Link>
                 )}
               </li>
-              <li>
-                <a
-                  href="https://facebook.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <FaFacebook className="facebook"/>
-                </a>
-              </li>
             </ul>
           </nav>
 
