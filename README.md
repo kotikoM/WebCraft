@@ -33,10 +33,10 @@ WebCraft is a modern **marketing platform** designed to help businesses showcase
 ## 🚀 Getting Started  
 
 1️⃣ Install the necessary dependencies:
-    ```sh
-    npm install
-    ```
+```sh
+npm install
+```
 2️⃣ Start the development server:
-    ```sh
-    npm run dev
-    ```
+```sh
+npm run dev
+```
